@@ -1,0 +1,50 @@
+th{
+    background-color: teal;
+    font-weight: 100%;
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+    width:25%;
+
+}
+
+h3{
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+
+}
+
+table{
+    
+    font-family :Helvetica,sans-serif;
+    border-color:aqua;
+    border-style:solid;
+    color: white;
+    font-weight: 100%;
+    width: 100%;
+    
+
+
+}
+td{
+    border: solid;
+    border-spacing: none;
+    border-color:darksalmon;
+    background-color: antiquewhite;
+    text-align: center;
+    font-weight: 100%;
+    
+}
+
+h2{
+    color: teal;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    font-style: italic;
+    font-weight: 100%;
+}
+body{ 
+      background-color: antiquewhite;
+}
